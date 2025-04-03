@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archisman Das</h1>
-<h3 align="center">A AI&ML undergrad at UEM-K</h3>
+<h3 align="center">An AI&ML undergrad at UEM-K</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archis-kodes&label=Profile%20views&color=0e75b6&style=flat" alt="archis-kodes" /> </p>
 
