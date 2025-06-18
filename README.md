@@ -23,6 +23,12 @@
   <img src="skills1.gif" width="600">
 </p>
 <br>
+<h2 align="center">🚀 LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/archis-kodes?theme=dark&border=0&radius=20&ext=heatmap" width="600" /> <br/>
+</p>
+<br>
+
 <h2 align="center">🚀 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=archis-kodes&theme=dark&hide_border=true&count_private=true" width="600" /><br/>
