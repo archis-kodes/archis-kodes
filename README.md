@@ -23,11 +23,11 @@
   <img src="skills1.gif" width="600">
 </p>
 <br>
-<h2 align="center">🚀 LeetCode Stats</h2>
+<!-- <h2 align="center">🚀 LeetCode Stats</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/archis-kodes?theme=dark&border=0&radius=20&ext=heatmap" width="600" /> <br/>
 </p>
-<br>
+<br> -->
 
 <h2 align="center">🚀 GitHub Stats</h2>
 <p align="center">
