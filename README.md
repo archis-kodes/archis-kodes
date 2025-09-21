@@ -10,7 +10,7 @@
   <a href="https://youtube.com/@CYBERARCHISOP">
     <img height=60vh src="https://img.icons8.com/?size=100&id=115362&format=png&color=000000" />
   </a>‎ ‎ ‎ 
-  <a href="https://instagram.com/ig_archis">
+  <a href="https://instagram.com/cyber_archis_op">
     <img height=60vh src="https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000" />
   </a>‎ ‎ ‎ 
   <a href="mailto:dasarchisman21@gmail.com">
